@@ -1,0 +1,80 @@
+1 Abjure
+1 Access Tunnel
+1 Arcane Adaptation
+1 Arcane Signet
+1 Biting-Palm Ninja
+1 Blinkmoth Nexus
+1 Brainstorm
+1 Changeling Outcast
+1 Clearwater Pathway // Murkwater Pathway
+1 Coastal Breach
+1 Command Tower
+1 Conspiracy
+1 Counterspell
+1 Cunning Evasion
+1 Dauthi Voidwalker
+1 Dimir Aqueduct
+1 Dimir Infiltrator
+1 Dimir Signet
+1 Discovery // Dispersal
+1 Dokuchi Silencer
+1 Drowned Catacomb
+1 Faerie Conclave
+1 Faerie Seer
+1 Fallen Shinobi
+1 Gingerbrute
+1 Grazilaxx, Illithid Scholar
+1 Gudul Lurker
+1 Halimar Depths
+1 Ingenious Infiltrator
+16 Island
+1 Lim-Dûl's Vault
+1 Misdirection
+1 Mist-Syndicate Naga
+1 Mistblade Shinobi
+1 Moon-Circuit Hacker
+1 Moonblade Shinobi
+1 Moonsnare Specialist
+1 Murderous Cut
+1 Mystic Sanctuary
+1 Nashi, Moon Sage's Scion
+1 Negate
+1 Ninja of the Deep Hours
+1 Ornithopter
+1 Phantom Ninja
+1 Prosperous Thief
+1 Rogue's Passage
+1 Satoru Umezawa
+1 Shipwreck Marsh
+1 Silent-Blade Oni
+1 Silver-Fur Master
+1 Siren Stormtamer
+1 Skullsnatcher
+1 Slither Blade
+1 Smoke Shroud
+1 Sol Ring
+1 Sunken Hollow
+5 Swamp
+1 Talisman of Dominance
+1 Temple of Deceit
+1 Tetsuko Umezawa, Fugitive
+1 Thalakos Seer
+1 Thousand-Faced Shadow
+1 Throat Slitter
+1 Tormented Soul
+1 Treasure Cruise
+1 Triton Shorestalker
+1 Walker of Secret Ways
+1 Xenograft
+1 Access Denied
+1 Daring Saboteur
+1 Flood of Tears
+1 Sensei's Divining Top
+1 Fabled Passage
+1 Lotus Petal
+1 Takenuma, Abandoned Mire
+1 Otawara, Soaring City
+1 Memnite
+1 Demonic Tutor
+1 Grim Tutor
+1 Soul-Guide Lantern

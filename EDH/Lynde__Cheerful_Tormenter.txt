@@ -1,0 +1,81 @@
+7 Mountain
+7 Swamp
+7 Island
+1 Steam Vents
+1 Sulfur Falls
+1 Luxury Suite
+1 Blood Crypt
+1 Badlands
+1 Underground Sea
+1 Morphic Pool
+1 Volcanic Island
+1 Dragonskull Summit
+1 Training Center
+1 Command Tower
+1 Crumbling Necropolis
+1 Watery Grave
+1 Drowned Catacomb
+1 Accursed Witch // Infectious Curse
+1 Curse of Bloodletting
+1 Curse of Death's Hold
+1 Curse of Disturbance
+1 Curse of Echoes
+1 Curse of Fool's Wisdom
+1 Curse of Inertia
+1 Curse of Leeches // Leeching Lurker
+1 Curse of Misfortunes
+1 Curse of Oblivion
+1 Curse of Obsession
+1 Curse of Opulence
+1 Curse of Shaken Faith
+1 Curse of Shallow Graves
+1 Curse of Surveillance
+1 Curse of the Nightly Hunt
+1 Curse of the Pierced Heart
+1 Curse of Thirst
+1 Curse of Vengeance
+1 Curse of Verbosity
+1 Trespasser's Curse
+1 Cruel Reality
+1 Doomwake Giant
+1 Blightcaster
+1 Agent of Erebos
+1 Shoal Kraken
+1 Forgeborn Oreads
+1 God-Eternal Bontu
+1 Maddening Hex
+1 Torment of Scarabs
+1 Paradox Haze
+1 Rhystic Study
+1 Propaganda
+1 Mogis, God of Slaughter
+1 Bitterheart Witch
+1 Estrid's Invocation
+1 Helm of the Gods
+1 Sol Ring
+1 Gem of Becoming
+1 Nicol Bolas, God-Pharaoh
+1 Nicol Bolas, Planeswalker
+1 Protean Thaumaturge
+1 Riptide Chimera
+1 Curse of the Restless Dead
+1 Geyadrone Dihada
+1 Curse of Chaos
+1 Curse of Stalked Prey
+1 Grim Guardian
+1 Curse of the Bloody Tome
+1 Swan Song
+1 Fraying Sanity
+1 Underworld Breach
+1 Nightscape Familiar
+1 Nicol Bolas, Dragon-God
+1 Negate
+1 Ashiok, Dream Render
+1 Ashiok, Nightmare Weaver
+1 Revenge of Ravens
+1 Curse of Unbinding
+1 The Meathook Massacre
+1 Paradoxical Outcome
+1 Curse of Hospitality
+1 Xander's Lounge
+1 Hidetsugu Consumes All // Vessel of the All-Consuming

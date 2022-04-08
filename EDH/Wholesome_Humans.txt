@@ -1,0 +1,79 @@
+14 Plains
+8 Forest
+1 Fabled Passage
+1 Ghost Quarter
+1 Abzan Falconer
+1 Avacyn's Pilgrim
+1 Beast Within
+1 Champion of the Parish
+1 Coveted Jewel
+1 Cultivate
+1 Eternal Witness
+1 Field of Ruin
+1 Herald's Horn
+1 Mirror Entity
+1 Mother of Runes
+1 Nature's Lore
+1 Odric, Lunarch Marshal
+1 Palace Sentinels
+1 Rogue's Passage
+1 Shamanic Revelation
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Weathered Wayfarer
+1 Azusa, Lost but Seeking
+1 Conclave Mentor
+1 Mangara, the Diplomat
+1 Sylvan Library
+1 Cathars' Crusade
+1 Champion of Lambholt
+1 Custodi Soulbinders
+1 Hardened Scales
+1 Sungrass Prairie
+1 Swiftfoot Boots
+1 Increasing Devotion
+1 Brushland
+1 Krosan Grip
+1 Pir, Imaginative Rascal
+1 Canopy Vista
+1 Return to Dust
+1 Unbreakable Formation
+1 Bond of Discipline
+1 Lifecrafter's Bestiary
+1 Ulvenwald Tracker
+1 Windswept Heath
+1 Mikaeus, the Lunarch
+1 Tithe
+1 Gideon Blackblade
+1 Karn's Bastion
+1 Generous Gift
+1 Call the Coppercoats
+1 Gavony Township
+1 Slippery Bogbonder
+1 Death's Presence
+1 Bastion Protector
+1 Reverent Hoplite
+1 Soul-Guide Lantern
+1 The Ozolith
+1 Vanquisher's Banner
+1 Branchloft Pathway // Boulderloft Pathway
+1 Felidar Retreat
+1 Jeweled Lotus
+1 Akroma's Will
+1 Secret Rendezvous
+1 Esper Sentinel
+1 Arcus Acolyte
+1 Blacksmith's Skill
+1 Keen-Eared Sentry
+1 Visions of Glory
+1 Saryth, the Viper's Fang
+1 Augur of Autumn
+1 Vanquish the Horde
+1 Adeline, Resplendent Cathar
+1 Heronblade Elite
+1 Torens, Fist of the Angels
+1 Cemetery Protector
+1 Sigardian Paladin
+1 Glorious Sunrise
+1 Boseiju, Who Endures
+1 Farewell

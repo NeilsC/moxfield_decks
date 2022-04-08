@@ -1,0 +1,83 @@
+1 Alrund's Epiphany
+1 Apex of Power
+1 Arcane Denial
+1 Arcane Signet
+1 Archaeomancer
+1 Archmage Emeritus
+1 Banefire
+1 Baral, Chief of Compliance
+1 Blasphemous Act
+1 Blighted Cataract
+1 Brainstorm
+1 Brass's Bounty
+1 Cascade Bluffs
+1 Castle Vantress
+1 Comet Storm
+1 Command Tower
+1 Commander's Sphere
+1 Creative Technique
+1 Curious Homunculus // Voracious Reader
+1 Dazzling Sphinx
+1 Dig Through Time
+1 Double Vision
+1 Dualcaster Mage
+1 Electrodominance
+1 Elemental Masterpiece
+1 Elementalist's Palette
+1 Epic Experiment
+1 Exotic Orchard
+1 Expansion // Explosion
+1 Expressive Iteration
+1 Faithless Looting
+1 Fiery Encore
+1 Finale of Promise
+1 Forgotten Cave
+1 Goblin Electromancer
+1 Hedron Archive
+1 Increasing Vengeance
+1 Inspiring Refrain
+9 Island
+1 Izzet Signet
+1 Jace's Sanctum
+1 Mage-Ring Network
+1 Mana Geyser
+1 Mind Stone
+1 Mind's Desire
+1 Mizzix's Mastery
+9 Mountain
+1 Muse Vortex
+1 Mystic Sanctuary
+1 Narset's Reversal
+1 Naru Meha, Master Wizard
+1 Negate
+1 Ponder
+1 Primal Amulet // Primal Wellspring
+1 Prismari Campus
+1 Radiant Performer
+1 Ral, Storm Conduit
+1 Reinterpret
+1 Reliquary Tower
+1 Riverglide Pathway // Lavaglide Pathway
+1 Rootha, Mercurial Artist
+1 Rousing Refrain
+1 Sanctum of Eternity
+1 Scavenger Grounds
+1 Sea Gate Restoration // Sea Gate, Reborn
+1 Search for Azcanta // Azcanta, the Sunken Ruin
+1 Seething Song
+1 Serum Visions
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Shivan Reef
+1 Sol Ring
+1 Storm-Kiln Artist
+1 Study Hall
+1 Sulfur Falls
+1 Surge to Victory
+1 Talisman of Creativity
+1 Talrand, Sky Summoner
+1 Training Center
+1 Treasure Cruise
+1 Veyran, Voice of Duality
+1 War Room
+1 Zada, Hedron Grinder
+1 Stormcarved Coast
