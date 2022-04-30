@@ -9,7 +9,6 @@
 1 Blade Historian
 1 Boros Charm
 1 Bruenor Battlehammer
-1 Bushi Tenderfoot // Kenzo the Hardhearted
 1 Calamity Bearer
 1 Canopy Vista
 1 Champion's Helm
@@ -83,3 +82,4 @@
 1 Temple Garden
 1 Three Visits
 1 Vandalblast
+1 Magnetic Theft
